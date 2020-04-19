@@ -1,6 +1,6 @@
-# games_api_rest
+# Node.js - Games API REST
 
-Projeto simples de uma API REST.
+Projeto simples de uma API REST com Node.js.
 
 API criada para consumo de banco de dados MySQL, utlizando apenas uma tabela de exemplo (cad_tb_games) com infomações ficticias de título, preço e ano de publicação de um game.
 
