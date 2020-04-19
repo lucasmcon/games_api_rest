@@ -1,4 +1,4 @@
-# games_api_restful
+# games_api_rest
 
 Projeto simples de uma API REST.
 
