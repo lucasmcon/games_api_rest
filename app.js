@@ -19,6 +19,6 @@ connection
     
 app.use("/", gamesController);
 
-app.listen(8080, ()=>{
+app.listen(8090, ()=>{
     console.log("API IS RUNNING...");
 });
